@@ -1,13 +1,13 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://demo.jamify.org`,
+    siteUrl: `https://leewardslope.com`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
 
     // Initial number fetched, scrolling lazy loads posts one by one
     // If infinite scroll is disabled: maximum number of post shown per page
-    postsPerPage: 3,
+    postsPerPage: 5,
 
     // This allows an alternative site title for meta data for pages.
     siteTitleMeta: `Gatsby Starter Ghost CMS`,
