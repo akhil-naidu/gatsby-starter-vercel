@@ -16,7 +16,7 @@ module.exports = {
     siteDescriptionMeta: `Turn your Ghost blog into a flaring fast static site with Gatsby`,
 
     // Used for App and Offline manifest e.g. Mobile Home Screen
-    shortTitle: `Jamify`,
+    shortTitle: `Leewardslope`,
     siteIcon: `favicon.png`,
     backgroundColor: `#e9e9e9`,
     themeColor: `#15171A`,
